@@ -16,6 +16,7 @@ cache:get("1", 50)
 cache:get("2", 500)
 cache:get("3", 7000)
 cache:get("4", 10)
+```
 
 # Find below the bird view of how the modules are organized:
 
